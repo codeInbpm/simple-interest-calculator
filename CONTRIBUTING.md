@@ -1,16 +1,41 @@
-# Contributing to Simple Interest Calculator
+# Contributing（贡献指南）
 
-## 欢迎所有贡献
-我们非常欢迎大家参与到这个项目中来！
+## 欢迎所有贡献！
 
-## 错误报告
-如果你发现了 Bug，请通过 GitHub Issues 提交报告。
+感谢您对 **Simple Interest Calculator** 项目的兴趣！  
+我们**欢迎所有贡献**，无论大小，包括但不限于：
 
-## 错误修复
-欢迎提交 Pull Request (PR) 来修复已知的错误。
+- **错误报告**（Bug reports）  
+- **错误修复**（Bug fixes）  
+- **文档改进**（Documentation improvements）  
+- **增强功能和想法**（Enhancements and new ideas / feature suggestions）
+
+任何形式的贡献都会让这个项目变得更好！
+
+## 如何贡献
+
+1. Fork 本仓库
+2. 创建一个新的 feature 分支（`git checkout -b feature/AmazingFeature`）
+3. 提交您的修改（`git commit -m 'Add some AmazingFeature'`）
+4. 推送到分支（`git push origin feature/AmazingFeature`）
+5. 打开一个 Pull Request
+
+## 错误报告（Bug Reports）
+
+如果您发现任何问题，请在 GitHub Issues 中新建 issue，并尽量提供：
+- 复现步骤
+- 预期结果和实际结果
+- 使用的环境（操作系统、Shell 版本等）
 
 ## 文档改进
-如果你觉得文档描述不清晰，欢迎随时修改并提交。
+
+欢迎改进 README、注释或添加新文档！
 
 ## 增强和想法
-如果你有新的功能建议或改进想法，请开启一个 Issue 进行讨论。
+
+有任何新功能想法或改进建议？欢迎在 Issues 中提出，我们会认真讨论。
+
+---
+
+**感谢每一位贡献者！**  
+本项目遵循 [CODE_OF_CONDUCT](CODE_OF_CONDUCT) 和 [LICENSE](LICENSE)。
